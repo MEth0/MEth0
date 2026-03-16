@@ -1,1 +1,6 @@
-![Metrics](https://metrics.lecoq.io/MEth0?template=classic&base.activity=0&achievements=1&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=5&config.timezone=Europe%2FBerlin&config.twemoji=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MEth0&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=MEth0&theme=dracula&column=4&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
